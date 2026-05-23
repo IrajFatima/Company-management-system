@@ -24,25 +24,6 @@ A comprehensive C++ application designed to manage company operations efficientl
 - **Build System**: Standard C++ compiler (g++, clang, MSVC)
 - **Data Structures**: Vectors, Maps, Structs
 
-## 📁 Project Structure
-
-```
-Company-management-system/
-├── src/
-│   ├── main.cpp
-│   ├── Employee.cpp/h
-│   ├── Department.cpp/h
-│   ├── Project.cpp/h
-│   ├── Company.cpp/h
-│   └── Assignment.cpp/h
-├── data/
-│   ├── employees.txt
-│   ├── departments.txt
-│   ├── projects.txt
-│   └── assignments.txt
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
